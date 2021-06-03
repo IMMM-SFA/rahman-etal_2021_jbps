@@ -14,7 +14,7 @@ Aowabin Rahman<sup>1\*</sup>, Amanda D. Smith<sup>1</sup>, YuLong Xie<sup>1</sup
 This paper presents a method for generating a large set of stochastically varying temperature setpoint schedules for EnergyPlus building performance simulations. It analyzes tradeoffs resulting from specific changes to those schedules in terms of three quantities: total electricity consumption per day; maximum hourly electricity consumption per day; and predicted percentage dissatisfied (occupant thermal comfort). The method for generating schedules requires a single base schedule as the starting point and, using a few clearly dened parameters, transforms it into a set of schedules that can be used for modeling an existing building stock or for performing parametric studies. Temperature setpoint schedules are generated and simulated for a small office building in a cool-dry climate in three different case studies pertaining to changing temperature setpoint schedules. Tradeoffs between the three output metrics are significant and vary based on the temperature setpoint schedules and the time of the year.
 
 ## Journal reference
-Rahman, A., Smith, A.D., Xie, Y., Thomas, J.V., & Burleyson, C.D. (2021). Methodology and analytical approach to investigate the impact of building temperature setpoints, TBD.
+<fill in when available>
 
 ## Code reference
 
