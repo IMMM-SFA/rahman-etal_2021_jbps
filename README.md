@@ -35,9 +35,9 @@ Human, I.M. (2021). My output dataset name [Data set]. DataHub. https://doi.org/
 ## Contributing modeling software
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
-| model 1 | version | link to code repository | link to DOI dataset |
-| model 2 | version | link to code repository | link to DOI dataset |
-| component 1 | version | link to code repository | link to DOI dataset |
+| `EnergyPlus` | 9.0.1 | https://github.com/NREL/EnergyPlus/tree/v9.0.1 | https://github.com/NREL/EnergyPlus/tree/v9.0.1 |
+| `tempset` | 0.0.0 | https://github.com/IMMM-SFA/tempset | http://doi.org/10.5281/zenodo.4976805 |
+
 
 ## Reproduce my experiment
 Fill in detailed info here or link to other documentation that is a thorough walkthrough of how to use what is in this repository to reproduce your experiment.
