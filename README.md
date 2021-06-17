@@ -18,7 +18,7 @@ This paper presents a method for generating a large set of stochastically varyin
 
 ## Code reference
 
-<citation for the tempset v0.1.0 release>
+Rahman, A., & Vernon, C. R. (2021, June 17). IMMM-SFA/tempset: v0.0.0 (Version v0.0.0). Zenodo. http://doi.org/10.5281/zenodo.4976805
 
 ## Data reference
 
