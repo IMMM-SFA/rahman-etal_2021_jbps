@@ -23,14 +23,10 @@ Rahman, A., & Vernon, C. R. (2021, June 17). IMMM-SFA/tempset: v0.0.0 (Version v
 ## Data reference
 
 ### Input data
-Reference for each minted data source for your input data.  For example:
-
-Human, I.M. (2021). My input dataset name [Data set]. DataHub. https://doi.org/some-doi-number
+Rahman, A., & Vernon, C.R. (2021). Data Supplement: Inputs and Outputs for Rahman et al. 2021 (Version v0.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4977248
 
 ### Output data
-Reference for each minted data source for your output data.  For example:
-
-Human, I.M. (2021). My output dataset name [Data set]. DataHub. https://doi.org/some-doi-number
+Rahman, A., & Vernon, C.R. (2021). Data Supplement: Inputs and Outputs for Rahman et al. 2021 (Version v0.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4977248
 
 ## Contributing modeling software
 | Model | Version | Repository Link | DOI |
